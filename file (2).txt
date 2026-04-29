@@ -1,0 +1,11 @@
+
+---
+
+# One more file/folder you should create
+
+## `assets/`
+
+Create a folder named:
+
+```text
+assets
